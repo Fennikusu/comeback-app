@@ -1,0 +1,149 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 1E10-3C44
+
+ R‚pertoire de C:\Users\Simon\Desktop\Dev\Comeback\admin_comeback\lib
+
+05/02/2025  12:17    <DIR>          .
+23/01/2025  02:13    <DIR>          ..
+23/01/2025  10:29    <DIR>          config
+05/02/2025  12:17                 0 fichier.txt
+03/02/2025  21:18             1ÿ633 main.dart
+23/01/2025  02:02    <DIR>          models
+23/01/2025  10:55    <DIR>          repository
+03/02/2025  21:08    <DIR>          screens
+03/02/2025  21:09    <DIR>          services
+23/01/2025  02:02    <DIR>          utils
+23/01/2025  02:02    <DIR>          widgets
+               2 fichier(s)            1ÿ633 octets
+
+ R‚pertoire de C:\Users\Simon\Desktop\Dev\Comeback\admin_comeback\lib\config
+
+23/01/2025  10:29    <DIR>          .
+05/02/2025  12:17    <DIR>          ..
+23/01/2025  10:33               322 admin_config.dart
+23/01/2025  10:34               949 api_config.dart
+23/01/2025  02:08             1ÿ045 theme_config.dart
+               3 fichier(s)            2ÿ316 octets
+
+ R‚pertoire de C:\Users\Simon\Desktop\Dev\Comeback\admin_comeback\lib\models
+
+23/01/2025  02:02    <DIR>          .
+05/02/2025  12:17    <DIR>          ..
+23/01/2025  11:08             1ÿ907 bet.dart
+23/01/2025  10:54               811 shop_item.dart
+23/01/2025  10:53             1ÿ525 user.dart
+               3 fichier(s)            4ÿ243 octets
+
+ R‚pertoire de C:\Users\Simon\Desktop\Dev\Comeback\admin_comeback\lib\repository
+
+23/01/2025  10:55    <DIR>          .
+05/02/2025  12:17    <DIR>          ..
+02/02/2025  18:33             4ÿ654 bet_repository.dart
+23/01/2025  10:55             2ÿ143 shop_repository.dart
+23/01/2025  10:55             1ÿ677 user_repository.dart
+               3 fichier(s)            8ÿ474 octets
+
+ R‚pertoire de C:\Users\Simon\Desktop\Dev\Comeback\admin_comeback\lib\screens
+
+03/02/2025  21:08    <DIR>          .
+05/02/2025  12:17    <DIR>          ..
+23/01/2025  02:02    <DIR>          auth
+02/02/2025  17:16    <DIR>          bets
+23/01/2025  02:02    <DIR>          dashboard
+04/02/2025  08:37    <DIR>          matches
+23/01/2025  02:02    <DIR>          shop
+23/01/2025  02:02    <DIR>          users
+               0 fichier(s)                0 octets
+
+ R‚pertoire de C:\Users\Simon\Desktop\Dev\Comeback\admin_comeback\lib\screens\auth
+
+23/01/2025  02:02    <DIR>          .
+03/02/2025  21:08    <DIR>          ..
+23/01/2025  10:30             3ÿ760 login_screen.dart
+23/01/2025  02:02                 0 splash_screen.dart
+               2 fichier(s)            3ÿ760 octets
+
+ R‚pertoire de C:\Users\Simon\Desktop\Dev\Comeback\admin_comeback\lib\screens\bets
+
+02/02/2025  17:16    <DIR>          .
+03/02/2025  21:08    <DIR>          ..
+02/02/2025  18:35            17ÿ506 bets_list_screen.dart
+23/01/2025  02:02                 0 bet_detail_screen.dart
+02/02/2025  17:57             4ÿ028 bet_finish_dialog.dart
+23/01/2025  02:02                 0 bet_form_screen.dart
+               4 fichier(s)           21ÿ534 octets
+
+ R‚pertoire de C:\Users\Simon\Desktop\Dev\Comeback\admin_comeback\lib\screens\dashboard
+
+23/01/2025  02:02    <DIR>          .
+03/02/2025  21:08    <DIR>          ..
+04/02/2025  08:41             6ÿ219 dashboard_screen.dart
+23/01/2025  02:02                 0 stats_widget.dart
+               2 fichier(s)            6ÿ219 octets
+
+ R‚pertoire de C:\Users\Simon\Desktop\Dev\Comeback\admin_comeback\lib\screens\matches
+
+04/02/2025  08:37    <DIR>          .
+03/02/2025  21:08    <DIR>          ..
+04/02/2025  18:33            13ÿ983 matches_import_screen.dart
+04/02/2025  15:27             8ÿ876 matches_validation_screen.dart
+               2 fichier(s)           22ÿ859 octets
+
+ R‚pertoire de C:\Users\Simon\Desktop\Dev\Comeback\admin_comeback\lib\screens\shop
+
+23/01/2025  02:02    <DIR>          .
+03/02/2025  21:08    <DIR>          ..
+23/01/2025  02:02                 0 item_form_screen.dart
+05/02/2025  12:15             8ÿ756 shop_items_screen.dart
+               2 fichier(s)            8ÿ756 octets
+
+ R‚pertoire de C:\Users\Simon\Desktop\Dev\Comeback\admin_comeback\lib\screens\users
+
+23/01/2025  02:02    <DIR>          .
+03/02/2025  21:08    <DIR>          ..
+23/01/2025  10:59             7ÿ352 users_screen.dart
+23/01/2025  02:02                 0 user_detail_screen.dart
+               2 fichier(s)            7ÿ352 octets
+
+ R‚pertoire de C:\Users\Simon\Desktop\Dev\Comeback\admin_comeback\lib\services
+
+03/02/2025  21:09    <DIR>          .
+05/02/2025  12:17    <DIR>          ..
+23/01/2025  02:02                 0 api_service.dart
+23/01/2025  10:32             2ÿ490 auth_service.dart
+02/02/2025  18:33             1ÿ995 bets_service.dart
+23/01/2025  10:39             1ÿ384 dashboard_service.dart
+04/02/2025  18:41             5ÿ128 matches_service.dart
+23/01/2025  10:57               558 shop_service.dart
+23/01/2025  10:56               519 users_service.dart
+               7 fichier(s)           12ÿ074 octets
+
+ R‚pertoire de C:\Users\Simon\Desktop\Dev\Comeback\admin_comeback\lib\utils
+
+23/01/2025  02:02    <DIR>          .
+05/02/2025  12:17    <DIR>          ..
+23/01/2025  02:02                 0 constants.dart
+23/01/2025  02:02                 0 validators.dart
+               2 fichier(s)                0 octets
+
+ R‚pertoire de C:\Users\Simon\Desktop\Dev\Comeback\admin_comeback\lib\widgets
+
+23/01/2025  02:02    <DIR>          .
+05/02/2025  12:17    <DIR>          ..
+23/01/2025  02:02    <DIR>          common
+04/02/2025  08:43             3ÿ670 sidebar.dart
+               1 fichier(s)            3ÿ670 octets
+
+ R‚pertoire de C:\Users\Simon\Desktop\Dev\Comeback\admin_comeback\lib\widgets\common
+
+23/01/2025  02:02    <DIR>          .
+23/01/2025  02:02    <DIR>          ..
+23/01/2025  02:02                 0 custom_button.dart
+23/01/2025  02:02                 0 custom_card.dart
+23/01/2025  02:02                 0 custom_table.dart
+23/01/2025  02:02                 0 loading_indicator.dart
+               4 fichier(s)                0 octets
+
+     Total des fichiers list‚sÿ:
+              39 fichier(s)          102ÿ890 octets
+              44 R‚p(s)  146ÿ477ÿ842ÿ432 octets libres
